@@ -12,7 +12,7 @@ namespace OdooConnector
       static async Task Main(string[] args)
       {
          await CheckConnection();
-         //await CheckData();
+         //await GetModelSchema();
          await ReadData();
       }
 
