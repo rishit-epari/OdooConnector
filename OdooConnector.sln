@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdooConnector", "OdooConnector\OdooConnector.csproj", "{42CD5A6C-2B45-41CF-9A3C-453A3C98C008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42CD5A6C-2B45-41CF-9A3C-453A3C98C008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CD5A6C-2B45-41CF-9A3C-453A3C98C008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CD5A6C-2B45-41CF-9A3C-453A3C98C008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CD5A6C-2B45-41CF-9A3C-453A3C98C008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94D2EF6-D8B1-4977-9DB3-E8ADDFA76160}
+	EndGlobalSection
+EndGlobal
